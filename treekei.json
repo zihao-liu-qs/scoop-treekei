@@ -1,0 +1,15 @@
+{
+    "version": "0.3.1",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/zihao-liu-qs/treekei/releases/download/v0.3.1/treekei_0.3.1_windows_amd64.zip",
+            "bin": [
+                "treekei.exe"
+            ],
+            "hash": "4305661e924c51828fdb94f3bb323b25f706222db9bb39bf3ac545f786e6be9a"
+        }
+    },
+    "homepage": "https://github.com/zihao-liu-qs/treekei",
+    "license": "MIT",
+    "description": "Command-line tool showing a file tree with line counts"
+}
