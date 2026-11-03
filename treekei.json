@@ -1,12 +1,12 @@
 {
-    "version": "0.3.3",
+    "version": "0.3.4",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/zihao-liu-qs/treekei/releases/download/v0.3.3/treekei_0.3.3_windows_amd64.zip",
+            "url": "https://github.com/zihao-liu-qs/treekei/releases/download/v0.3.4/treekei_0.3.4_windows_amd64.zip",
             "bin": [
                 "treekei.exe"
             ],
-            "hash": "7819d91eb98d110b53678a1f91df6cd1adfb9411bfa243c3f04e70f72c85a382"
+            "hash": "c0cb9f7b7046c47c51ac0b7823d7ea0210167c172e86f0f0a97ee3693942fd62"
         }
     },
     "homepage": "https://github.com/zihao-liu-qs/treekei",
